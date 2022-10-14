@@ -1,6 +1,6 @@
-/* @tailwid base;
+@tailwid base;
 @tailwind components;
-@tailwind utilities; */
+@tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;500;700;900&display=swap');
 
@@ -76,3 +76,5 @@ body{
   #svg-gradient:hover {
   opacity: 1.0;
   }
+
+  /*Home CSS*/
